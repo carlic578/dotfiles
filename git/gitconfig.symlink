@@ -1,0 +1,36 @@
+[alias]
+    svnup = svn rebase --all
+    ci = commit
+    st = status
+    co = checkout
+    br = branch
+
+[user]
+	name = Christopher Carlisle
+	email = carlic578@gmail.com
+
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+
+[color "branch"]
+    current = blue reverse
+    local = blue
+    remote = green
+
+[color "diff"]
+    meta = blue bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+
+[color "status"]
+    added = blue
+    changed = green
+    untracked = cyan
+
+[github]
+	token = 74673d289d615b5baf25565e084f6398
+[core]
+	excludesfile = /Users/chris/.gitignore
