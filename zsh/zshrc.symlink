@@ -1,0 +1,24 @@
+# Lines configured by zsh-newuser-install
+export PATH=/usr/local/bin:$PATH:/Developer/usr/bin:/android/tools:/android/platform-tools
+#added for homebrew
+export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH 
+HISTFILE=~/.zsh_history
+HISTSIZE=1000
+SAVEHIST=1000
+setopt appendhistory autocd beep extendedglob nomatch
+unsetopt notify
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/%n/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+
+export PROMPT=$'\n[%n %d]%#\n'
+export RPROMPT="[%M %!]"
+
+alias ll='ls -la'
+alias l='ls -la'
+alias vi='/Applications/MacVim.app/Contents/MacOS/Vim'

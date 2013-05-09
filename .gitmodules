@@ -1,0 +1,33 @@
+[submodule "vi/vim.symlink/bundle/CSApprox"]
+	path = vi/vim.symlink/bundle/CSApprox
+	url = git@github.com:vim-scripts/CSApprox.git
+[submodule "vi/vim.symlink/bundle/nerdcommenter"]
+	path = vi/vim.symlink/bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "vi/vim.symlink/bundle/nerdtree"]
+	path = vi/vim.symlink/bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "vi/vim.symlink/bundle/powerline"]
+	path = vi/vim.symlink/bundle/powerline
+	url = git@github.com:Lokaltog/powerline.git
+[submodule "vi/vim.symlink/bundle/ScrollColors"]
+	path = vi/vim.symlink/bundle/ScrollColors
+	url = git@github.com:vim-scripts/ScrollColors.git
+[submodule "vi/vim.symlink/bundle/supertab"]
+	path = vi/vim.symlink/bundle/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "vi/vim.symlink/bundle/tagbar"]
+	path = vi/vim.symlink/bundle/tagbar
+	url = git@github.com:majutsushi/tagbar.git
+[submodule "vi/vim.symlink/bundle/tlib_vim"]
+	path = vi/vim.symlink/bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "vi/vim.symlink/bundle/vim-addon-mw-utils"]
+	path = vi/vim.symlink/bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "vi/vim.symlink/bundle/vim-snipmate"]
+	path = vi/vim.symlink/bundle/vim-snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "vi/vim.symlink/bundle/vim-snippets"]
+	path = vi/vim.symlink/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
