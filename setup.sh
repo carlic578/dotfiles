@@ -9,7 +9,6 @@ git submodule add git@github.com:ervandew/supertab.git vi/vim.symlink/bundle/sup
 git submodule add git@github.com:majutsushi/tagbar.git vi/vim.symlink/bundle/tagbar
 git submodule add https://github.com/tomtom/tlib_vim.git vi/vim.symlink/bundle/tlib_vim
 git submodule add https://github.com/MarcWeber/vim-addon-mw-utils.git vi/vim.symlink/bundle/vim-addon-mw-utils
-git submodule add git://github.com/nathanaelkane/vim-indent-guides.git vi/vim.symlink/bundle/vim-indent-guides
 git submodule add git://github.com/garbas/vim-snipmate.git vi/vim.symlink/bundle/vim-snipmate
 git submodule add https://github.com/honza/vim-snippets.git vi/vim.symlink/bundle/vim-snippets
 git submodule add git@github.com:nathanaelkane/vim-indent-guides.git vi/vim.symlink/bundle/vim-indent-guides
